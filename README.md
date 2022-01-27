@@ -6,11 +6,6 @@
 - 🌱 计算机科学底层知识学习中
 - 💭 马克思主义信仰者
 
-<p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=XavierXuV5&title_color=333&text_color=777" alt="XavierXuV5 Stats" >
-  </a>
-</p>
 
 - 🌿 **Languages** :  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +30,12 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
+<p align="center">
+  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=XavierXuV5&title_color=333&text_color=777" alt="XavierXuV5 Stats" >
+  </a>
+</p>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=XavierXuV5&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
